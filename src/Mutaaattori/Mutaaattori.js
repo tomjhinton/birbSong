@@ -15,7 +15,7 @@ import * as misc from "maath/misc";
 
 
 
-// console.log(glb)
+
 
 export default function Experience(){
  
